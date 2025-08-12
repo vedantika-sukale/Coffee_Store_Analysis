@@ -1,11 +1,11 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![Coffee Background Banner (4)](Coffee_background_Banner)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
 ## Tool used :
-<img src="./microsoft-excel.png" width="300" height="150"/>&nbsp;
+<img src="./microsoft-excel" width="300" height="150"/>&nbsp;
 
 
 ## Result and Insights :
@@ -28,7 +28,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+<img src="./Dashboard" width="3000" height="600"/>&nbsp;
 
 
 
